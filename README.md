@@ -1,8 +1,6 @@
 <article>
 
 <h1>VEHICLE</h1>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://code.google.com/p/ria-scip/logo?cct=1363080172" alt="Logo" itemprop="image">
-
 <h2>Viewstate Hidden Event Enumerator!</h2>
 <h3>An advanced toolset for testing modern web application frameworks and rich internet applications.</h3>
 
