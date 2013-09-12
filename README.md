@@ -44,7 +44,7 @@ Currently supports ASP.net, while the next release will support mono and additio
 <p>
 <h2>Developers</h2>
 VEHICLE is developed and maintained by <a href="https://twitter.com/nashcontrol" rel="nofollow">Alex Mor</a>, <a href="https://twitter.com/sectooladdict" rel="nofollow">Shay Chen</a> and <a href="https://twitter.com/nivselatwit" rel="nofollow">Niv Sela</a>.<br>
-The development team also includes <a href="https://twitter.com/michal_golds">Michal Goldstein</a> and Alon Friedman.
+The development team also includes <a href="https://twitter.com/michal_golds">Michal Goldstein</a> and <a href="https://twitter.com/aaf1983">Alon Friedman</a>.
 </p>
 
 <p>
